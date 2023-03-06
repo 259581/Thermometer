@@ -15,9 +15,9 @@ float Temperature;
 float Humidity;
 char BUF[7];
 
-const char* ssid = "UPC6200230";  // Enter SSID here
-const char* password = "SzybkiInternet123";  //Enter Password here
-const char* mqttServer = "192.168.0.174";    // IP adress Raspberry Pi
+const char* ssid = "******";  // Enter SSID here
+const char* password = "*******";  //Enter Password here
+const char* mqttServer = "*******";    // IP adress Raspberry Pi
 const int mqttPort = 1883; // Enter mqtt port
 const char* temperature_topic = "dht22/temp"; // topic 1
 const char* humidity_topic_topic = "dht22/hum"; // topic 2
