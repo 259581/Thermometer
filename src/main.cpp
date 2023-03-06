@@ -18,7 +18,7 @@ char BUF[7];
 const char* ssid = "******";  // Enter SSID here
 const char* password = "*******";  //Enter Password here
 const char* mqttServer = "*******";    // IP adress Raspberry Pi
-const int mqttPort = *******; // Enter mqtt port
+const int mqttPort = 1883; // Enter mqtt port
 const char* temperature_topic = "dht22/temp"; // topic 1
 const char* humidity_topic_topic = "dht22/hum"; // topic 2
 const long interval = 10000; // measure every 10 seconds
