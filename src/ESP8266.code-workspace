@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../ESP8266"
+		},
+		{
+			"name": "Thermometer",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
